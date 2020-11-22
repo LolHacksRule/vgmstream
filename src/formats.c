@@ -1028,7 +1028,7 @@ static const meta_info meta_info_list[] = {
         {meta_UBI_JADE,             "Ubisoft Jade RIFF header"},
         {meta_SEG,                  "Stormfront SEG header"},
         {meta_NDS_STRM_FFTA2,       "Final Fantasy Tactics A2 RIFF Header"},
-        {meta_STR_ASR,              "Donkey Kong Jet Race KNON/WII Header"},
+        {meta_STR_ASR,              "Donkey Kong Jet Race KNON (Kanon)/WII Header"},
         {meta_ZWDSP,                "Zack and Wiki custom DSP Header"},
         {meta_GCA,                  "GCA DSP Header"},
         {meta_SPT_SPD,              "SPT+SPD DSP Header"},
